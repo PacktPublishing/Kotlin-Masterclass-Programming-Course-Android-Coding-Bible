@@ -1,0 +1,47 @@
+hackr.io
+https://hackr.io/tutorials/learn-kotlin
+
+
+CalliCoder
+https://www.callicoder.com/categories/kotlin/
+
+Android Developer
+https://developer.android.com/kotlin/resources
+
+Code Labs
+https://codelabs.developers.google.com/codelabs/build-your-first-android-app-kotlin/index.html#0
+
+
+Treehouse
+https://blog.teamtreehouse.com/absolute-beginners-guide-kotlin
+
+MindOrks
+https://blog.mindorks.com/a-complete-guide-to-learn-kotlin-for-android-development-b1e5d23cc2d8
+
+Tutorial Kart
+https://www.tutorialkart.com/kotlin-tutorial/
+
+
+Codementor
+https://www.codementor.io/community/topic/kotlin
+
+
+Material
+https://material.io/collections/developer-tutorials/
+
+
+Envato
+https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209
+
+
+Official Kotlin Website
+https://kotlinlang.org/
+
+Medium
+https://medium.com/@magnus.chatt/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5
+
+Coursera
+https://www.coursera.org/learn/kotlin-for-java-developers
+
+Reddit
+https://www.reddit.com/r/Kotlin/

@@ -1,0 +1,6 @@
+https://kotlinlang.org/
+
+https://www.jetbrains.com/idea/download/#section=windows
+
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
